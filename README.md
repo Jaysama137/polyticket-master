@@ -11,7 +11,7 @@
 
 请参见[AndrewMore](https://gitee.com/andrewmore)在Gitee的项目[AutoTicketForPoly](https://gitee.com/andrewmore/auto-ticket-for-poly)中的说明。
 
-如果链接失效，可查看本项目中的备份文档：AutoTicketForPoly_README_backup.md
+如果链接失效，可查看本项目中的备份文档：backup/AutoTicketForPoly_README_backup.md
 
 ## 本项目的改动
 
