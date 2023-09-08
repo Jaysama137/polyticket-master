@@ -1,3 +1,7 @@
+# 以下代码部分引用了Andrewmore在Gitee上的 AutoTicketForPoly的代码
+# 原始代码链接: https://gitee.com/andrewmore/auto-ticket-for-poly
+# 作者: Andrewmore
+
 from os import name
 import select
 from xml.sax.xmlreader import Locator
